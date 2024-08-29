@@ -22,7 +22,7 @@
 
 - **User Profiles**: Each user has a personalized profile where they can manage their blog posts and interact with others.
 
-  ![bs-profile](https://github.com/user-attachments/assets/e86e110a-1d4f-4d18-af67-26d604ee0c99)
+ ![bs-profile](https://github.com/user-attachments/assets/c59f7cf4-6a92-4607-ba4f-39f7b58ed825)
 
 
 - **Responsive Design**: Bliss Life is designed to be user-friendly and accessible on various devices, providing a seamless experience across desktops, tablets, and mobile phones.
